@@ -1,0 +1,2 @@
+setwd("z:\\")
+getwd()

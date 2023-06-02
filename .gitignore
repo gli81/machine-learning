@@ -1,0 +1,8 @@
+.vscode
+*.class
+#.ipynb_checkpoints
+
+## large files
+creditcard.csv
+kaggle/TMDB-Box-Office-Prediction/input/*
+kaggle/Spotify-Dataset/input/*
