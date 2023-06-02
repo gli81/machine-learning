@@ -1,6 +1,6 @@
 .vscode
 *.class
-#.ipynb_checkpoints
+.ipynb_checkpoints
 
 ## large files
 creditcard.csv
