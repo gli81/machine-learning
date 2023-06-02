@@ -1,6 +1,7 @@
 .vscode
 *.class
 .ipynb_checkpoints
+__pycache__
 
 ## large files
 creditcard.csv
